@@ -1,0 +1,8 @@
+{
+  "name": "Custom Streaming Repo",
+  "description": "83 Cloudstream providers including Movies, Anime, Drama and Live TV",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://indiblog.github.io/csr/plugins.json"
+  ]
+}
